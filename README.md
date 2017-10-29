@@ -11,3 +11,8 @@
            Type : python3 spotify.py
            Enjoy!!
            You can change the song or pause or stop, or quit the appindicator completely. 
+
+
+## Dependencies 
+1. Selenium 
+2. Gtk3+
