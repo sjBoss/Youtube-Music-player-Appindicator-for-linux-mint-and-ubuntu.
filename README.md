@@ -1,5 +1,5 @@
 # Youtube-Music-player-Appindicator-for-linux-mint-and-ubuntu.
-    ******* Stream Electronic Music from youtube on click of a button *********
+    ******** Stream Electronic Music from youtube on click of a button **********
     This app indicator works on most debian distributions.
     Requirements : Firefox webbrowser, python3 compiler, GTK support( exists by default )
     
